@@ -1,0 +1,6 @@
+{
+  "itemGroup.realistic_guns.guns": "RealisticGuns",
+  "message.realistic_guns.empty": "弾切れ！(Shift+右クリック でリロード)",
+  "key.realistic_guns.inspect": "残弾確認",
+  "key.categories.realistic_guns": "RealisticGuns"
+}

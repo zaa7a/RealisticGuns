@@ -1,5 +1,6 @@
 {
-  "itemGroup.realistic_guns": "Example Mod Tab",
-  "block.realistic_guns.example_block": "Example Block",
-  "item.realistic_guns.example_item": "Example Item"
+  "itemGroup.realistic_guns.guns": "RealisticGuns",
+  "message.realistic_guns.empty": "Out of ammo! (Shift+RClick to reload)",
+  "key.realistic_guns.inspect": "Inspect Ammo",
+  "key.categories.realistic_guns": "RealisticGuns"
 }
